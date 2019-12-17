@@ -4,7 +4,7 @@ Plugin Name: AW Add Title YMD
 Plugin URI: https://careru.jp/
 Description: タイトルの年月を自動更新できる ステキやん
 Author: Alternative Works
-Version: 0.0.2
+Version: 0.0.5
 Author URI: https://careru.jp/
 */
 if ( ! defined( 'ABSPATH' ) ) {
